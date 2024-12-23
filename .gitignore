@@ -1,0 +1,5 @@
+.vscode
+.idea/
+*.iml
+.zjt_test_instance_information
+000000-VPN-资源/zjt-test.pem
